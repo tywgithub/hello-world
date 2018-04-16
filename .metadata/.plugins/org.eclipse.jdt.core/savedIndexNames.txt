@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+D:\TYWwork\eclipseWeblogic\workspace-githubtest\.metadata\.plugins\org.eclipse.jdt.core
+992206696.index
+1855984923.index
+930239702.index
+626515736.index
+2714020432.index
+524949005.index
+3970813754.index
+1176839596.index
+401299501.index
+3694781709.index
+1314389737.index
+2230100104.index
+2698954180.index
+142533823.index
+633704896.index
+2753192237.index
+3198595631.index
+3900973743.index
+1542990501.index
